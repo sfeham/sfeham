@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sfeham
 - 👀 I’m interested in developing my skills and having fun .
-- 🌱 I’m currently learning php and Javascript in my off time.
+- 🌱 I’m currently learning Java and Javascript in my off time.
 - 💞️ I’m looking to collaborate on where it will help people who really need it
-- 📫 How to reach me ? www.linkedin.com/in/sofiane-hamlaoui-3a50a8221 / IG: sfeham
+- 📫 How to reach me ? www.linkedin.com/in/sofiane-hamlaoui-3a50a8221 / X: Sfeham
 
 
 <!---
